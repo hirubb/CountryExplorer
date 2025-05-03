@@ -3,7 +3,7 @@ import SearchBar from './SearchBar';
 import backgroundImage from "../assests/website_thumbnail.png"; 
 
 const Banner = ({ onSearch }) => {
-  const headingText = "Come See The World";
+  const headingText = "Let's Take A Trip Around The World";
 
   return (
     <div 
